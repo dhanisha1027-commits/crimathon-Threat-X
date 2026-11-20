@@ -1,0 +1,2 @@
+# ThreatX NEEDZERO runs using Python 3.10+ standard library only.
+# No pip packages required for the local prototype.
